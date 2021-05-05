@@ -1,0 +1,29 @@
+body {
+    background-color: darksalmon;
+}
+
+.heading {
+    font-size:20px;
+    width:80%;
+}
+
+.object_names {
+    color: rgb(179, 210, 240);
+    font-size: 35px;
+}
+
+#camera {
+    height:300px;
+    width:350px;
+    border:2px dashed black; 
+}
+
+#result {
+    height:300px;
+    width:350px;
+    border:2px dashed black; 
+}
+
+#result_name, #accuracy {
+    color: firebrick;
+}
